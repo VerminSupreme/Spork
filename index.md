@@ -8,7 +8,8 @@
   </head>
 <body>
 <h1>This is my website</h1>
-<p>Hello World</p>
+<img src="https://imgur.com/a/Mav3wYL" alt="Baby Elijah">
+  <p style="background-color: red;">Welcome child</p>
 </body>
 
 </html>
